@@ -12,3 +12,4 @@ import itertools
 import pickle
 import joblib
 import nltk 
+Download dataset : https://www.kaggle.com/datasets/bittlingmayer/amazonreviews

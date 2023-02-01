@@ -1,6 +1,3 @@
-#1009
-
-
 
 
 #include <stdio.h>

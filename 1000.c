@@ -1,4 +1,3 @@
-#1000
 
 #include <stdio.h>
  

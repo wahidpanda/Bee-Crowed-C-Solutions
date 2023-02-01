@@ -1,6 +1,3 @@
-#1007
-
-
 
 #include <stdio.h>
 int main() {
